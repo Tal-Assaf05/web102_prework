@@ -23,8 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://youtu.be/ML2EihrmN0k' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 [<!-- Replace this with whatever GIF tool you used! -->
 ](https://youtu.be/eTDnbr4hf2g)
@@ -36,7 +35,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+During the project, I encountered several challenges. One of the main difficulties was figuring out how to apply the syntax I learned in the course to our project. At first, I struggled to translate the concepts into functional code, which led to a lot of trial and error. However, as I progressed, I became more familiar with the project structure and the techniques required to implement features effectively. Step by step, I gained confidence and a deeper understanding of how to apply what I had learned, making the development process smoother over time.
 
 ## License
 
